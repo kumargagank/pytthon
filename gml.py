@@ -6,7 +6,7 @@ import smtplib
 
 s=smtplib.SMTP('smtp.gmail.com','587')
 s.starttls()
-receiver='gagangana9739@gmail.com'
+receiver='harshitarkumbar22@gmail.com'
 sender='gaganmsdhonikumar@gmail.com'
 msg="hii"
 s.login(sender,'89456123')
